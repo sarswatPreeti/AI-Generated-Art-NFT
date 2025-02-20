@@ -1,5 +1,4 @@
 # AI-Generated-Art-NFT
-# Dynamic NFT
 
 ## Smart Contract Address
 0xee5dE26d518AB6f1e392B80012e45d33ad859640
